@@ -5,6 +5,7 @@ I’m a **Computer Science Student** in 3rd year in collage
 <!-- name and who i am end -->
 
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shoura279&label=Profile%20views&color=0e75b6&style=flat" alt="shoura279" /> </p>
 
 
 ## Skills and Experiance
@@ -23,4 +24,3 @@ I’m a **Computer Science Student** in 3rd year in collage
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shoura279)](https://github.com/anuraghazra/github-readme-stats)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shoura279&label=Profile%20views&color=0e75b6&style=flat" alt="shoura279" /> </p>
