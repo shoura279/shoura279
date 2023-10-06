@@ -20,7 +20,7 @@ I’m a **Computer Science Student** in 4th year in collage
 
 
 ## Solve Problems on **CodeForces** .. [See my Profile](https://codeforces.com/profile/X_Hunter_X)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shoura279&show_icons=true&hide=issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shoura279)](https://github.com/anuraghazra/github-readme-stats)
 
