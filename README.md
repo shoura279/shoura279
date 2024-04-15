@@ -1,7 +1,6 @@
 
 <!-- name and who i am start -->
-# 👋 Hi, I'm Ahmed Shoura
-I’m a **Computer Science Student** in 4th year in collage
+  #                                                     👋 Hi, I'm Ahmed Shoura
 <!-- name and who i am end -->
 
 
